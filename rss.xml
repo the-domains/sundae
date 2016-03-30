@@ -4,7 +4,7 @@
         <description><![CDATA[Sundae]]></description>
         <link>https://thegrid.ai/sundae/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 04:01:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2016 04:02:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sundae/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Second Sundae]]></title>
@@ -12,13 +12,6 @@
             <link>http://secondsundae.blogspot.com/2013/01/house-battles-jan-2013.html</link>
             <guid isPermaLink="false">387d9cac-d446-404b-a5b0-9ae1615b6a48</guid>
             <pubDate>Wed, 30 Mar 2016 03:58:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/56a3e992-e71a-42f9-a5fe-1f62c48d517a.jpg">]]></description>
-            <link>https://thegrid.ai/sundae/1721c42f-ac14-4fb6-a242-0b8e1594e613/index.html</link>
-            <guid isPermaLink="false">1721c42f-ac14-4fb6-a242-0b8e1594e613</guid>
-            <pubDate>Wed, 30 Mar 2016 02:01:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
