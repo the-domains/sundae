@@ -1,0 +1,28 @@
+name: Sundae
+favicon: null
+layout_spectrum: 0.8894386033061892
+typography_spectrum: 0.5714696499053389
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.612768174149096
+  lightness: 0.2642074953764677
+  saturation: 0.8015512903220952
+  rhythmicContrast: 0.914414151571691
+purpose: []
