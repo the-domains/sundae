@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://soundcloud.com/sundae/sets/sundae-2011'
+inLanguage: null
+starred: false
+keywords: []
+description: 'Due to sound cloud being forced to comply to an old copy write law, we are moving all of our mixes over to HEARTHIS.at'
+datePublished: '2016-04-01T16:08:47.672Z'
+dateModified: '2016-04-01T16:07:50.275Z'
 author:
   - name: Sundae(now @ hearthis.at)
     url: 'http://soundcloud.com/sundae'
     avatar: {}
 related: []
-publisher:
-  url: 'http://soundcloud.com'
-  name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-  domain: soundcloud.com
-keywords: []
-description: 'Due to sound cloud being forced to comply to an old copy write law, we are moving all of our mixes over to HEARTHIS.at'
 app_links:
   - type: ios
     namespace: ai
@@ -48,15 +51,15 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://soundcloud.com/sundae/sets/sundae-2011'
 title: SUNDAE 2011 by Sundae(now @ hearthis.at)
-datePublished: '2016-04-01T16:07:42.003Z'
-dateModified: '2016-04-01T16:06:18.487Z'
 sourcePath: _posts/2016-04-01-sundae-2011-by-sundaenow-hearthisat.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: SoundCloud
+  domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 _type: AudioObject
 _context: 'http://schema.org'
 
